@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Academy Award Review of Walt Disney Cartoons",
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "United Artists",
+    "Release date": [
+      "May 19, 1937 ( 1937-05-19 )"
+    ],
+    "Running time": "41 minutes (74 minutes 1966 release)",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$45.472",
+    "Running time(int)": 41,
+    "Budget(float)": null,
+    "Box Office(int)": null,
+    "Release date(datetime)": 
